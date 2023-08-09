@@ -1,0 +1,10 @@
+.custom-bg-color {
+  background-color: #307fbb; /* Replace with your custom color code */
+}
+.navbar-brand {
+  padding: 0.5rem 1rem;
+}
+.nav-link.active {
+  background-color: #f8f9fa;
+  border-radius: 0.25rem; 
+}
